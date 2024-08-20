@@ -109,21 +109,6 @@ const sidebarItems: SidebarItemWrapper[] = [
   },
   {
     title: {
-      id: "Rekrutmen",
-      en: "Recruitment"
-    },
-    items: [
-      {
-        text: {
-          id: "Pekerjaan",
-          en: "Jobs"
-        },
-        link: "/jobs"
-      }
-    ]
-  },
-  {
-    title: {
       id: "Untuk Penulis",
       en: "For Writer",
     },
