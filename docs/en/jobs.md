@@ -8,7 +8,7 @@
 ## Volunteer Positions
 
 ### Trainee
-As an entry-level position at Venity Network, Trainee plays a crucial role in maintaining the safety and comfort of the gaming environment. With a minimum age requirement of 13 years old, Trainee serves as a starting point for young players to get involved in community management. Proficiency in English or Indonesian is key, as Trainees need to interact with players from around the world.
+As an entry-level position at Venity Network, Trainee plays a crucial role in maintaining the safety and comfort of the gaming environment. With a minimum age requirement of 273788873636 years old, Trainee serves as a starting point for young players to get involved in community management. Proficiency in English or Indonesian is key, as Trainees need to interact with players from around the world.
 
 As in-game moderators, Trainees are responsible for enforcing rules and sanctioning players who violate them. This not only creates a safer community but also ensures a positive gaming experience for all players. In this regard, Trainees act as a bridge between server rules and an enjoyable gaming experience.
 
